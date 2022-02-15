@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FB_Autentication</string>
+    <string name="sign_out">salir</string>
+    <string name="revocar">revocar</string>
+</resources>
